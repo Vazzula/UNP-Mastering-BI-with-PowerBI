@@ -1,7 +1,10 @@
 # UNP_Mastering_BI_with_Power_BI_HR_Attrition_Dataset
 ---
+
 PBIX PowerBI Project Link: https://drive.google.com/file/d/14TWrJVOZDU8lGN1IuZPsEoOLWWK2-2h4/view?usp=sharing
+
 PDF Project Report Link: https://drive.google.com/file/d/1qeG-HSE-OMA4KD8f-YEfEfdDsw8THHwh/view?usp=sharing
+
 ---
 
 **OVERVIEW:**
